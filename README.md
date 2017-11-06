@@ -10,7 +10,6 @@ https://www.dropbox.com/s/21uhbpbjpv03jfj/ARchan.apk?dl=0
 
 # Screenshots
 
-![ss2](https://user-images.githubusercontent.com/31897425/32414764-0dfb95fc-c254-11e7-900f-ed148a4c12df.png)
 
 
 ![screenshot_20171105-181827](https://user-images.githubusercontent.com/31897425/32414900-233dfa20-c256-11e7-897e-db5e72dd98d5.png)
