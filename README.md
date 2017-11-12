@@ -6,7 +6,7 @@ Meet your favourite character in real world !  Made with Unity ( + Vuforia plugi
 
 ## Download the app 
 
-https://www.dropbox.com/s/21uhbpbjpv03jfj/ARchan.apk?dl=0
+https://www.dropbox.com/s/21uhbpbjpv03jfj/ARchan.apk?dl=0 
 
 # Screenshots
 
