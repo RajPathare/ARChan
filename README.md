@@ -19,3 +19,9 @@ https://www.dropbox.com/s/21uhbpbjpv03jfj/ARchan.apk?dl=0
 
 
 ![screenshot_20171105-181901](https://user-images.githubusercontent.com/31897425/32414903-29feabde-c256-11e7-88ff-92d547e0e6f7.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
